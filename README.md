@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/17480036-8b8a-4d1c-bc59-46bbf984e453" />
+
 # 🚀 Same-Day Capital OS
 
 A high-conversion funding assistant designed to help small business owners, gig workers, and entrepreneurs access fast working capital — often the same day.
